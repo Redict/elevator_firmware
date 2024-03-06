@@ -1,0 +1,7 @@
+dependencies:
+  http:
+    url: github.com/toitlang/pkg-http
+    version: ^2.1.0
+  hx711:
+    url: github.com/toitware/toit-hx711
+    version: ^0.0.1
